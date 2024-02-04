@@ -1,0 +1,139 @@
+.elm {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    margin: 1.5px;
+    border: 10px;
+    background-color: rgb(0, 0, 0);
+    border-style: hidden;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    
+
+
+}
+.table {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2px;
+}
+ 
+body {
+    background-color: rgb(35, 19, 12);
+    padding: 3px;
+}
+
+ 
+.null {
+   
+    width: 10vh;
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+    margin-top: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+}
+.row0 {
+    display: flex;
+    height: 50px;
+}
+.row1 {
+    display: flex;
+    
+    
+}
+.row2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.row3 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.row4 {
+    display: flex;
+}
+.row5 {
+    display: flex;
+}
+.row6{
+    display: flex;
+}
+.row7 {
+    display: flex;
+}
+.row8 {
+    display: flex;
+    margin-top: 30px;
+}
+.lastrow {
+    display: flex;
+}
+
+.orange {
+    background-color: darkcyan;
+}
+.red {
+    background-color: aquamarine;
+    
+}
+.green {
+    background-color: rgb(140, 209, 211);
+}
+.pinkk {
+    background-color: cornflowerblue;
+}
+.violet {
+    background-color: rgb(177, 220, 249);
+}
+.purp {
+    background-color: lightgreen;
+}
+.yell {
+    background-color:rgb(221, 252, 191);
+}
+.grey {
+    background-color:rgb(104, 184, 117);
+}
+.white {
+    background-color: rgb(130, 194, 198);
+}
+.new {
+    background-color: rgb(35, 19, 12);
+    color: beige;
+    font-size: 1em;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 10px;
+    display: flex;
+}
+.new1 {
+    background-color:  rgb(139, 131, 127);
+    color: beige;
+    font-size: 1em;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 10px;
+}
+.new2 {
+    background-color: rgb(180, 251, 254);
+    display: flex;
+}
+.new3 {
+    background-color: rgb(49, 123, 125);
+    display: flex;
+}
